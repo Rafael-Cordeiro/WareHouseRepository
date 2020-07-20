@@ -1,0 +1,7 @@
+Regras de negócio:
+	1º Um serviço só pode ser iniciado assim que o pagamento (ou entrada de um parcelamento) é efetuado (se não for pago, a solicitação do serviço será descartada/cancelada);
+	2º Todo serviço deverá ter um tempo base determinado de conclusão baseado na sua complexidade e passível de alteração;
+	3º Clientes que solicitam seu primeiro serviço na assistência terão desconto de 50% no custo do serviço descrito no orçamento;
+	4º Relatórios de serviço, estoque e funcionários deverão ser disponibilizados para à contabilidade;
+	5º A cada 10 serviços contratados, o cliente poderá escolher um produto de até 50 reais da loja à sua escolha;
+	6º O cliente deverá ser informado caso seja necessário encomendar componente(s) para seu serviço, bem como se estes já chegaram à assistência.

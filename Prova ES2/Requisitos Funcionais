@@ -1,0 +1,6 @@
+Requisitos Funcionais
+	1º O sistema emitirá relatórios para a equipe de gerência;
+	2º O sistema mandará uma mensagem de SMS ou e-mail ao cliente quando o técnico concluir o serviço;
+	3º O sistema deve ter fornecer informações a respeito de qual estágio se encontra o serviço feito em seu aparelho;
+	4º Os técnicos poderão consultar uma lista de tarefas baseadas na ordem e nos prazos dos serviços;
+	5º Poderá ser configurado compras automáticas de peças em falta no estoque em sites à escolha da gerência da loja.

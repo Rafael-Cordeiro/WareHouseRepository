@@ -1,0 +1,6 @@
+Requisitos Não Funcionais
+	1º A interface com o usuário deverá fornecer um guia de usabilidade no primeiro uso, estando disponível para consulta a qualquer momento;
+	2º O sistema deverá ser desenvolvido na linguagem JavaEE;
+	3º Deverá haver um App para clientes, tal qual onde o cliente poderá solicitar e acompanhar serviços;
+	4º A interface do sistema deverá ser feita com JavaScript e CSS e deverá ter layout de fácil reconhecimento (pŕoprio para os funcionários da assistência que o utilizarão com frequência);
+	5º O sistema terá uma área de reclamações aonde qualquer usuário poderá apontar erros ou problemas do aplicativo, bem como recomendações.
